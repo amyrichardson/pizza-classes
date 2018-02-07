@@ -1,0 +1,5 @@
+- [x] Base pizza class, takes in ingredients (default=cheese)
+- [ ] Order class, keepts track of number of pizzas in an order, method that calculates the cost for an entire order
+- [ ] Pre-configured pizzas
+- [ ] Add pizza objects to order object
+- [ ] Calculate total for order (handling pricing -- 10 per pizza, .99 extra for each additional ingredient)
